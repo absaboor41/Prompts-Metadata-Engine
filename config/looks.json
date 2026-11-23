@@ -1,0 +1,106 @@
+{
+  "background": "#FFFFFF",
+  "rotation": [
+    "loop_background",
+    "hero_concept",
+    "hero_3d_object",
+    "isometric_scene",
+    "hero_concept",
+    "loop_background",
+    "hero_3d_object",
+    "isometric_scene"
+  ],
+  "asset_types": {
+    "loop_background": {
+      "label": "Seamless loop with copy space",
+      "brief": "Editors put their own title or logo on top. The main subject fills two thirds of the frame, and one third stays clean pure white."
+    },
+    "hero_concept": {
+      "label": "Hero concept animation",
+      "brief": "A clear process or transformation that explains the niche at a glance. One LARGE focal subject (40-60% of frame) that reads in 2 seconds without words."
+    },
+    "hero_3d_object": {
+      "label": "Premium 3D object showcase",
+      "brief": "One large, finely crafted 3D object (extruded or layered geometry, glass or matte materials) that symbolises the topic. It has purposeful internal animation and a slow cinematic camera move."
+    },
+    "isometric_scene": {
+      "label": "Isometric 3D-style scene",
+      "brief": "A clean, detailed isometric world in premium SaaS explainer style that shows the system working, with soft contact shadows on white."
+    }
+  },
+  "looks": [
+    {
+      "name": "Corporate Blue",
+      "colors": [
+        {"hex": "#1D4ED8", "name": "royal blue", "role": "primary"},
+        {"hex": "#0891B2", "name": "deep cyan", "role": "active"},
+        {"hex": "#0F172A", "name": "deep ink", "role": "detail"},
+        {"hex": "#64748B", "name": "slate", "role": "secondary"}
+      ]
+    },
+    {
+      "name": "Teal and Coral",
+      "colors": [
+        {"hex": "#0F766E", "name": "deep teal", "role": "primary"},
+        {"hex": "#EA580C", "name": "coral", "role": "accent, max 15% of colored area"},
+        {"hex": "#1E293B", "name": "dark slate", "role": "detail"},
+        {"hex": "#0EA5E9", "name": "sky blue", "role": "secondary"}
+      ]
+    },
+    {
+      "name": "Indigo and Magenta",
+      "colors": [
+        {"hex": "#4338CA", "name": "indigo", "role": "primary"},
+        {"hex": "#C026D3", "name": "magenta", "role": "active"},
+        {"hex": "#0284C7", "name": "blue", "role": "secondary"},
+        {"hex": "#1E1B4B", "name": "midnight", "role": "detail"}
+      ]
+    },
+    {
+      "name": "Emerald Tech",
+      "colors": [
+        {"hex": "#047857", "name": "emerald", "role": "primary"},
+        {"hex": "#10B981", "name": "green", "role": "success"},
+        {"hex": "#2563EB", "name": "blue", "role": "secondary"},
+        {"hex": "#111827", "name": "near-black", "role": "detail"}
+      ]
+    },
+    {
+      "name": "Violet and Amber",
+      "colors": [
+        {"hex": "#6D28D9", "name": "violet", "role": "primary"},
+        {"hex": "#D97706", "name": "amber", "role": "highlight"},
+        {"hex": "#0369A1", "name": "ocean blue", "role": "secondary"},
+        {"hex": "#1F2937", "name": "graphite", "role": "detail"}
+      ]
+    },
+    {
+      "name": "Security Red and Navy",
+      "colors": [
+        {"hex": "#1E3A8A", "name": "navy", "role": "primary"},
+        {"hex": "#DC2626", "name": "red", "role": "alert, small doses"},
+        {"hex": "#0891B2", "name": "cyan", "role": "secure"},
+        {"hex": "#111827", "name": "near-black", "role": "detail"}
+      ]
+    },
+    {
+      "name": "Ocean Gradient",
+      "colors": [
+        {"hex": "#0284C7", "name": "ocean blue", "role": "primary"},
+        {"hex": "#4F46E5", "name": "indigo", "role": "secondary"},
+        {"hex": "#0D9488", "name": "teal", "role": "accent"},
+        {"hex": "#0F172A", "name": "ink", "role": "detail"}
+      ]
+    },
+    {
+      "name": "Graphite and Electric Blue",
+      "colors": [
+        {"hex": "#1F2937", "name": "graphite", "role": "main material"},
+        {"hex": "#2563EB", "name": "electric blue", "role": "accent"},
+        {"hex": "#06B6D4", "name": "cyan", "role": "active"},
+        {"hex": "#6B7280", "name": "grey", "role": "secondary"}
+      ]
+    }
+  ],
+  "lighting": "Soft studio key light from top-left. Soft contact shadows and ambient occlusion on white. Controlled specular highlights. No glow or bloom."
+}

@@ -1,0 +1,6 @@
+{
+  "_comment": "Copy this file to config/settings.local.json and fill in your own values. settings.local.json is git-ignored and overrides config/settings.json key by key.",
+  "sheet_id": "YOUR_SHEET_ID",
+  "oauth_credentials": "C:/Users/YOUR_USER/AppData/Roaming/gspread/credentials.json",
+  "oauth_authorized_user": "C:/Users/YOUR_USER/AppData/Roaming/gspread/authorized_user.json"
+}

@@ -1,0 +1,23 @@
+{"concepts": [
+  {
+    "slot": 1,
+    "concept_name": "Quarantine Cell Bloom",
+    "trend_hook": "Security teams shifting from blocking attacks to isolating infected endpoints within seconds",
+    "buyer_use_case": "Security software marketers place it behind the product name in the first 4 seconds of an ad; news editors use it as B-roll under a ransomware headline",
+    "visual_metaphor": "A honeycomb of hexagonal cells seals off one tainted cell by growing glass walls around it.",
+    "scene_description": "A tilted honeycomb slab of 37 extruded hexagonal cells fills 55% of frame width, centered slightly right on pure white. One cell near the center turns red and starts to bleed a thin red stain toward its 6 neighbours. Translucent glass walls rise from the surrounding cells and close around it like a capsule, and the stain retreats. Foreground: 4 small floating hex tiles at 6% of frame width each; background: soft contact shadow under the slab.",
+    "copy_space": "none",
+    "timeline": [
+      {"time": "0-4s", "action": "Slab rests in navy, cells breathe up and down 1.5% of frame height in a slow wave from left to right; one center cell flips to red."},
+      {"time": "4-8s", "action": "Red stain spreads 6% of frame width into 2 neighbours; 6 glass walls rise from the ring of cells around it, staggered 6 frames apart."},
+      {"time": "8-12s", "action": "Glass capsule seals with a crisp cyan rim highlight; stain retreats into the isolated cell, which shrinks 20% and sinks 5% of frame height below the slab surface."},
+      {"time": "12-15s", "action": "Capsule lowers back into the slab, the cell rises to its starting height and turns navy again, returning to the exact opening state."}
+    ],
+    "camera": "Opens on a 3/4 top view at 30 degrees elevation -> slow 12 degree arc to the right with a gentle 6% push-in during the seal -> arcs back to the exact opening angle by frame 450.",
+    "motion_details": "All moves use easeInOutCubic; cell breathing is 2 whole cycles over the loop; walls rise over 24 frames each with 6-frame stagger; the stain front travels 6% of frame width over 4 seconds; camera arc is one full sine cycle so it returns seamlessly.",
+    "color_usage": "Navy #1E3A8A on all healthy cells, red #DC2626 only on the infected cell and stain (under 8% of the colored area), cyan #0891B2 on the glass capsule rim and the floating tiles, near-black #111827 on cell edges.",
+    "lighting_and_fx": "Glass capsule shows a thin specular edge highlight as the camera arcs; the sealed cell casts a deeper ambient-occlusion shadow when it sinks.",
+    "build_3d": true,
+    "search_keywords": ["ransomware containment", "endpoint isolation", "threat detection", "cybersecurity background", "honeycomb", "hexagon cells", "quarantine", "security software", "infected device", "network defense", "glass capsule", "white background"]
+  }
+]}

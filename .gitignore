@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build / render output
+node_modules/
+out/
+runs/
+qc/
+.remotion/
+build/
+dist/
+
+# Media and archives
+*.mp4
+*.mov
+*.webm
+*.zip
+
+# Generated metadata and prompts
+metadata/*.csv
+metadata/_work/
+prompts/*.md
+!prompts/.gitkeep
+
+# Secrets and personal config (never commit)
+.env*
+!.env.example
+*.local.json
+!*.local.example.json
+credentials*.json
+authorized_user*.json
+token*.json
+*service_account*.json

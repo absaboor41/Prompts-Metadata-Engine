@@ -1,0 +1,162 @@
+[
+  {
+    "niche_id": 1,
+    "niche": "Data Analytics",
+    "category": "Technology / Data Analytics",
+    "commercial_focus": "BI, real-time data processing, data-driven decisions",
+    "buyer_uses": [
+      "corporate presentation background with copy space",
+      "BI/fintech product ad B-roll",
+      "annual report intro",
+      "data-driven decision explainer"
+    ],
+    "research_queries": [
+      "data analytics trends news this week",
+      "business intelligence AI news"
+    ]
+  },
+  {
+    "niche_id": 2,
+    "niche": "DevOps/CI-CD",
+    "category": "Technology / DevOps/CI-CD",
+    "commercial_focus": "automation pipelines, CI/CD, software delivery speed",
+    "buyer_uses": [
+      "software product video",
+      "developer conference opener",
+      "tech recruiting background",
+      "automation explainer"
+    ],
+    "research_queries": [
+      "devops news this week",
+      "software deployment automation trends"
+    ]
+  },
+  {
+    "niche_id": 3,
+    "niche": "Augmented Reality (AR)",
+    "category": "Technology / Augmented Reality (AR)",
+    "commercial_focus": "spatial computing, smart glasses, enterprise AR",
+    "buyer_uses": [
+      "spatial computing promo",
+      "retail AR explainer",
+      "industrial AR training intro",
+      "tech event loop"
+    ],
+    "research_queries": [
+      "augmented reality smart glasses news this week",
+      "spatial computing trends"
+    ]
+  },
+  {
+    "niche_id": 4,
+    "niche": "Virtual Reality (VR)",
+    "category": "Technology / Virtual Reality (VR)",
+    "commercial_focus": "immersive training, virtual environments, simulation",
+    "buyer_uses": [
+      "immersive training promo",
+      "virtual event background",
+      "gaming tech explainer",
+      "edtech ad"
+    ],
+    "research_queries": [
+      "virtual reality news this week",
+      "VR training simulation trends"
+    ]
+  },
+  {
+    "niche_id": 5,
+    "niche": "Network Security",
+    "category": "Technology / Network Security",
+    "commercial_focus": "encryption, zero-trust, secure data transmission",
+    "buyer_uses": [
+      "VPN/secure network ad",
+      "banking security explainer",
+      "IT compliance training",
+      "telecom presentation"
+    ],
+    "research_queries": [
+      "zero trust network security news this week",
+      "encryption trends"
+    ]
+  },
+  {
+    "niche_id": 6,
+    "niche": "AI/Machine Learning",
+    "category": "Technology / AI/Machine Learning",
+    "commercial_focus": "AI agents, enterprise AI, model training",
+    "buyer_uses": [
+      "AI startup launch video",
+      "AI news B-roll",
+      "enterprise AI webinar background",
+      "AI agents explainer"
+    ],
+    "research_queries": [
+      "AI agents enterprise news this week",
+      "machine learning trends"
+    ]
+  },
+  {
+    "niche_id": 7,
+    "niche": "Cybersecurity",
+    "category": "Technology / Cybersecurity",
+    "commercial_focus": "threat detection, ransomware defense, SOC",
+    "buyer_uses": [
+      "cybersecurity news B-roll",
+      "security software ad",
+      "awareness training intro",
+      "SOC presentation background"
+    ],
+    "research_queries": [
+      "cyberattack ransomware news this week",
+      "threat detection trends"
+    ]
+  },
+  {
+    "niche_id": 8,
+    "niche": "Cloud Computing",
+    "category": "Technology / Cloud Computing",
+    "commercial_focus": "data centers, hybrid cloud, AI infrastructure",
+    "buyer_uses": [
+      "cloud provider ad",
+      "data center news B-roll",
+      "SaaS onboarding explainer",
+      "IT keynote background"
+    ],
+    "research_queries": [
+      "data center AI infrastructure news this week",
+      "cloud computing trends"
+    ]
+  },
+  {
+    "niche_id": 9,
+    "niche": "Blockchain/Crypto",
+    "category": "Technology / Blockchain/Crypto",
+    "commercial_focus": "digital payments, tokenization, smart contracts",
+    "buyer_uses": [
+      "fintech app ad",
+      "digital payments explainer",
+      "finance news B-roll",
+      "web3 conference loop"
+    ],
+    "research_queries": [
+      "tokenization digital payments news this week",
+      "blockchain trends"
+    ]
+  },
+  {
+    "niche_id": 10,
+    "niche": "IoT/5G Networks",
+    "category": "Technology / IoT/5G Networks",
+    "commercial_focus": "smart cities, connected devices, edge computing",
+    "buyer_uses": [
+      "telecom ad",
+      "smart city explainer",
+      "industrial IoT presentation",
+      "5G/6G news B-roll"
+    ],
+    "research_queries": [
+      "5G IoT smart city news this week",
+      "edge computing trends"
+    ]
+  }
+]
